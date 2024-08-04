@@ -17,4 +17,4 @@ This project focuses on loading a weather dataset and answering several specific
 7. **Find the number of records where the wind speed is greater than 24 km/hr and visibility is equal to 25 km.** 308 records
 8. **Calculate the mean value of each column for each weather condition.** For this, I used the describe() function in python to get the mean of all the features with numerical values. 
 9. **Find all instances where the weather is clear and the relative humidity is greater than 50, or visibility is above 40.** 1070 records
-10. **Find the number of weather conditions that include snow.** 390 records. 
+10. **Find the number of weather conditions that include snow.** 583 records. 
