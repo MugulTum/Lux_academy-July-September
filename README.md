@@ -18,3 +18,6 @@ This project focuses on loading a weather dataset and answering several specific
 8. **Calculate the mean value of each column for each weather condition.** For this, I used the describe() function in python to get the mean of all the features with numerical values. 
 9. **Find all instances where the weather is clear and the relative humidity is greater than 50, or visibility is above 40.** 1070 records
 10. **Find the number of weather conditions that include snow.** 583 records. 
+
+## Conclusion
+This project demonstrates the use of Python for data manipulation and analysis. Answering the questions above has helped generate valuable insights from the weather dataset.
